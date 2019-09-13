@@ -1,0 +1,7 @@
+node --help                          // Asking for help
+node -v                             // Version
+node -c or --check script.js       // Check the syntax
+node --v8-options                 // V8 options
+node --harmony                   // JS Features
+node -p "" or --print           // Print all nodes results
+npm update -g                  // Upgrade Version
